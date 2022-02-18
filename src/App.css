@@ -4,9 +4,73 @@
   padding: 0;
 }
 
+body {
+  background-color: black;
+  color: white;
+}
+
 header {
   font-size: 2em;
-  padding: 50px;
+  margin-bottom: 40px;
+  padding: 70px;
   text-align: center;
 }
 
+.Mercúrio {
+  width: 50px;
+}
+
+.Vênus {
+  width: 100px;
+}
+
+.Terra {
+  width: 130px;
+}
+
+.Marte {
+  width: 80px;
+}
+
+.Júpiter {
+  width: 300px;
+}
+
+.Saturno {
+  width: 295px;
+}
+
+.Urano {
+  width: 150px;
+}
+
+.Netuno {
+  width: 148px;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+.container-solar-system {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.conatiner-information {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+.container-subtitle {
+  border: solid  3px;
+  border-style: outset;
+  display: flex;
+  justify-content: center;
+  margin-left: 25%;
+  width: 50%;
+}
