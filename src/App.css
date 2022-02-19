@@ -17,15 +17,15 @@ header {
 }
 
 .Mercúrio {
-  width: 50px;
+  width: 40px;
 }
 
 .Vênus {
-  width: 100px;
+  width: 90px;
 }
 
 .Terra {
-  width: 130px;
+  width: 110px;
 }
 
 .Marte {
@@ -33,19 +33,19 @@ header {
 }
 
 .Júpiter {
-  width: 300px;
+  width: 280px;
 }
 
 .Saturno {
-  width: 295px;
+  width: 265px;
 }
 
 .Urano {
-  width: 150px;
+  width: 140px;
 }
 
 .Netuno {
-  width: 148px;
+  width: 138px;
 }
 
 h2 {
@@ -61,6 +61,7 @@ h2 {
 .conatiner-information {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   margin-bottom: 50px;
   margin-top: 20px;
   padding: 30px;
@@ -73,4 +74,19 @@ h2 {
   justify-content: center;
   margin-left: 25%;
   width: 50%;
+}
+
+.container-planets {
+  display: flex;
+  flex-direction: column-reverse;
+  height: 232px;
+  justify-content: space-between;
+}
+
+.container-img {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 210px;
+  justify-content: center;
 }
