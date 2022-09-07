@@ -6,7 +6,7 @@ import './App.css';
 
 class App extends React.Component {
   render() {
-    document.title = 'Sistama Solar';
+    document.title = 'Sistema Solar';
     return (
       <div>
         <Header />
