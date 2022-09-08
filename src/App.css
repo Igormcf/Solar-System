@@ -20,7 +20,7 @@ body {
 
 header {
   align-items: center;
-  background-image: url('../src/images/header.png');
+  background-image: url('../src/images/nebulosa.png');
   display: flex;
   font-size: 3em;
   justify-content: center;
@@ -93,7 +93,7 @@ h2 {
 .container-solar-system {
   display: flex;
   flex-direction: column;
-  background-image: url('./images/solarsistem.png');
+  background-image: url('./images/espacoProfundo.png');
 }
 
 .conatiner-planets {
