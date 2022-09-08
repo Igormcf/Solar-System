@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/88337336/189014822-2c39902d-5b7e-4891-
 
 ## Sobre o projeto:
 
-Neste foi desenvolvida uma página com um modelo do sistema solar, bem como, uma lista de cards com informções sobre diversas missões espaciais que ocorreram ao longo da história.
+Neste foi desenvolvida uma página com um modelo do sistema solar, bem como, uma lista de cards com informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
 ## Sobre o desenvolvimento:
 
