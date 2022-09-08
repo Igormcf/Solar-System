@@ -8,7 +8,7 @@ Neste foi desenvolvida uma página com um modelo do sistema solar, bem como, uma
 
 ## Sobre o desenvolvimento:
 
-Esta é uma aplicação em `React` com `JavaScript`, onde foi realizada a criação de `componentes de classe` e passagem de `props`. Foi uutilizado `PropTypes` para a validação das props dos componentes. Ainda, no layout da aplicação, foi utilizada a lib `ScrollReveal` para adicionar efeitos `parallax` durante o scroll da página.
+Esta é uma aplicação em `React` com `JavaScript`, onde foi realizada a criação de `componentes de classe` e passagem de `props`. Foi utilizado `PropTypes` para a validação das props dos componentes. Ainda, no layout da aplicação, foi utilizada a lib `ScrollReveal` para adicionar efeitos `parallax` durante o scroll da página.
 
 ## Orientações para a Execução:
 
